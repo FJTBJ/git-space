@@ -1,0 +1,28 @@
+﻿h1 {
+    color: #18266f;
+    font-family: 'Microsoft YaHei',Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+    background-color: #cad0db;
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+table{
+    margin:auto;
+    border-collapse:collapse;
+}
+
+tr:hover{
+    background-color:lightgray;
+}
+
+td{
+    padding:7px
+}
